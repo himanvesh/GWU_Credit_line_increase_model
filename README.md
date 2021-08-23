@@ -4,7 +4,7 @@ Project 1- Model credit
 
 ### Basic Information
 
-* **Person or organization developing model**: Patrick Hall, `jphall@gwu.edu`
+* **Person or organization developing model**: Ayushi Chauhan, `chauhayu2511@gwu.edu`
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: MIT
@@ -33,7 +33,7 @@ Project 1- Model credit
 | **PAY_AMT1 - PAY_AMT6** | inputs | float | amount of previous payment; PAY_AMT1 = amount paid in September, 2005; PAY_AMT2 = amount paid in August, 2005; ...; PAY_AMT6 = amount paid in April, 2005 |
 | **DELINQ_NEXT**| target | int | whether a customer's next payment is delinquent (late), 1 = late; 0 = on-time |
 
-* **Source of training data**: GWU Blackboard, email `jphall@gwu.edu` for more information
+* **Source of training data**: GWU Blackboard, email `chauhayu2511@gwu.edu` for more information
 * **How training data was divided into training and validation data**: 50% training, 25% validation, 25% test
 * **Number of rows in training and validation data**:
   * Training rows: 15,000
@@ -50,6 +50,6 @@ Project 1- Model credit
 
 
 ### Test Data
-* **Source of test data**: GWU Blackboard, email `jphall@gwu.edu` for more information
+* **Source of test data**: GWU Blackboard, email `chauhayu2511@gwu.edu` for more information
 * **Number of rows in test data**: 7,500
 * **State any differences in columns between training and test data**: None
