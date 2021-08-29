@@ -93,17 +93,22 @@ Output column:
 
 
 ### Quantitative analysis 
-* **Metrics used to evaluate the final model**:Confusion metrics used to evaluate the final model
+* **Metrics used to evaluate the final model**: Confusion metrics 
 * **Final values of the metrics for all data**: 
   * Training AUC: 0.78
   * Validation AUC: 0.75
   * Test AUC: 0.74 
+  * Asian-to-White AIR: 1.00
+  * Black-to-White AIR: 0.85
+  * Female-to-Male AIR: 1.02
+  * Hispanic-to-White AIR: 0.83
  
 ### Plots related to the data or final model**: 
 
 * Training decision tree 
 
 ![Graph 1](https://user-images.githubusercontent.com/89392789/131267465-0b5f8d90-6ce5-4d68-8472-7c5f26be7196.png)
+
 
 
 * Tree depth vs. training and validation AUC and AIR
