@@ -117,7 +117,7 @@ Output column:
 ![image](https://user-images.githubusercontent.com/89392789/131266853-c3af72c9-1a94-48a9-9498-08015df2a1fb.png)
 
 
-
+* **Interpretation**: Depth = 6 is the best choice
 
 ### Ethical considerations 
 * **Potential negative impacts of using the model**:
