@@ -4,11 +4,11 @@ Project 1- Model credit
 
 ### Basic Information
 
-* **Person or organization developing model**: Ayushi Chauhan, `chauhayu2511@gwu.edu`
+* **Person or organization developing model**: Ayushi Chauhan, Neel Barge, Himanvesh Maddina, `chauhayu2511@gwu.edu`, 'nbarge96@gwmail.gwu.edu', 'himanvesh@gwu.edu'
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: MIT
-* **Model implementation code**: [Project1_Credit_Model.ipynb](Project1_Credit_Model.ipynb)
+* **Model implementation code**: [DNSC_6301_Project.ipynb](DNSC_6302_Project.ipynb)
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
@@ -33,15 +33,14 @@ Project 1- Model credit
 | **PAY_AMT1 - PAY_AMT6** | inputs | float | amount of previous payment; PAY_AMT1 = amount paid in September, 2005; PAY_AMT2 = amount paid in August, 2005; ...; PAY_AMT6 = amount paid in April, 2005 |
 | **DELINQ_NEXT**| target | int | whether a customer's next payment is delinquent (late), 1 = late; 0 = on-time |
 
-* **Source of training data**: GWU Blackboard, email `chauhayu2511@gwu.edu` for more information
+* **Source of training data**: GWU Blackboard, email `chauhayu2511@gwu.edu`, 'nbarge96@gwmail.gwu.edu', 'himanvesh@gwu.edu' for more information
 * **How training data was divided into training and validation data**: 50% training, 25% validation, 25% test
 * **Number of rows in training and validation data**:
   * Training rows: 15,000
   * Validation rows: 7,500
 
-
 ### Test Data
-* **Source of test data**: GWU Blackboard, email `chauhayu2511@gwu.edu` for more information
+* **Source of test data**: GWU Blackboard, email `chauhayu2511@gwu.edu`,'nbarge96@gwmail.gwu.edu', 'himanvesh@gwu.edu' for more information
 * **Number of rows in test data**: 7,500
 * **State any differences in columns between training and test data**: None
 
@@ -88,15 +87,22 @@ Output column:
 
 
 * **Type of model**: Decision-tree model
-* **Software used to implement the model**: Jupyter Notebook
-* **Version of the modeling software**: Python 3.7
-* **Hyperparameters or other settings of the model**: None
+* **Software used to implement the model**: Colaboratory
+* **Version of the modeling software**: Python 3.6.9
+* **Hyperparameters or other settings of the model**: The cutoff of lending money is 0.12 below which the accuracy gets hampered for the given dataset.
 
 
 ### Quantitative analysis 
-* **Metrics used to evaluate the final model**:
+* **Metrics used to evaluate the final model**:Confusion metrics used to evaluate the final model
 * **Final values of the metrics for all data: training, validation, and test data**:
 * **Plots related to the data or final model**: 
+
+
+
+
+
+
+
 
 
 
