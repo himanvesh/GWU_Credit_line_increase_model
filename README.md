@@ -67,14 +67,12 @@ Input columns:
 | **PAY_4** | the repayment status in June, 2005 | 
 | **PAY_5** | the repayment status in May, 2005 | 
 | **PAY_6** | the repayment status in April, 2005 | 
-
 | **BILL_AMT1** | amount of bill statement in September, 2005 |
 | **BILL_AMT2** | amount of bill statement in August, 2005 |
 | **BILL_AMT3** | amount of bill statement in July, 2005 |
 | **BILL_AMT4** | amount of bill statement in June, 2005 |
 | **BILL_AMT5** | amount of bill statement in May, 2005 |
 | **BILL_AMT6** | amount of bill statement in April, 2005 |
-
 | **PAY_AMT1** | the repayment status in September, 2005 | 
 | **PAY_AMT2** | the repayment status in August, 2005 | 
 | **PAY_AMT3** | the repayment status in July, 2005 | 
@@ -84,6 +82,8 @@ Input columns:
 
 
 Output column: 
+| Name | Description|
+| ---- | ---------- |
 | **DELINQ_NEXT**| whether a customer's next payment is delinquent (late) or on-time |
 
 
