@@ -94,14 +94,19 @@ Output column:
 
 ### Quantitative analysis 
 * **Metrics used to evaluate the final model**:Confusion metrics used to evaluate the final model
-* **Final values of the metrics for all data: training, validation, and test data**:
-* **Plots related to the data or final model**: 
+* **Final values of the metrics for all data*: 
+  *Training AUC**: 0.78
+ *Validation AUC**: 0.75
+ *Test AUC**: 0.74 
+ 
+### Plots related to the data or final model**: 
 
+Training decision tree 
+![Graph 1](https://user-images.githubusercontent.com/89392789/131267465-0b5f8d90-6ce5-4d68-8472-7c5f26be7196.png)
+
+
+Tree depth vs. training and validation AUC and AIR
 ![image](https://user-images.githubusercontent.com/89392789/131266853-c3af72c9-1a94-48a9-9498-08015df2a1fb.png)
-
-
-
-
 
 
 
