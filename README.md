@@ -93,18 +93,18 @@ Output column:
 * **Hyperparameters or other settings of the model**: None
 
 
-###Quantitative analysis 
-* **Metrics used to evaluate the final model*:
-* **Final values of the metrics for all data: training, validation, and test data*:
-* **Plots related to the data or final model*: 
+### Quantitative analysis 
+* **Metrics used to evaluate the final model**:
+* **Final values of the metrics for all data: training, validation, and test data**:
+* **Plots related to the data or final model**: 
 
 
 
-###Ethical considerations 
-* **Potential negative impacts of using the model*:
-* **Math or software problems*:
-* **Real-world risks: who, what, when or how*:
-* **Potential uncertainties relating to the impacts of using your model*:
-* **Math or software problems*:
-* **Real-world risks: who, what, when or how?*:
-* **Any unexpected or results*:
+### Ethical considerations 
+* **Potential negative impacts of using the model**:
+* **Math or software problems**:
+* **Real-world risks: who, what, when or how**:
+* **Potential uncertainties relating to the impacts of using your model**:
+* **Math or software problems**:
+* **Real-world risks: who, what, when or how?**:
+* **Any unexpected or results**:
