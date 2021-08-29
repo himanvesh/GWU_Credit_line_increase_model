@@ -103,21 +103,23 @@ Output column:
   * Female-to-Male AIR: 1.02
   * Hispanic-to-White AIR: 0.83
  
-### Plots related to the data or final model**: 
+### Plots **: 
 
-* Training decision tree 
+* **Training decision tree **
 
 ![Graph 1](https://user-images.githubusercontent.com/89392789/131267465-0b5f8d90-6ce5-4d68-8472-7c5f26be7196.png)
 
 
 
-* Tree depth vs. training and validation AUC and AIR
+* **Tree depth vs. training and validation AUC and AIR**
 
 
 ![image](https://user-images.githubusercontent.com/89392789/131266853-c3af72c9-1a94-48a9-9498-08015df2a1fb.png)
 
 
-* **Interpretation**: Depth = 6 is the best choice
+* *Interpretation from the plot: Depth = 6 is the best choice
+
+
 
 ### Ethical considerations 
 * **Potential negative impacts of using the model**:
