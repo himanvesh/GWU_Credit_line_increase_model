@@ -90,6 +90,21 @@ Output column:
 * **Type of model**: Decision-tree model
 * **Software used to implement the model**: Jupyter Notebook
 * **Version of the modeling software**: Python 3.7
-* **Hyperparameters or other settings of your model**: None
+* **Hyperparameters or other settings of the model**: None
 
 
+###Quantitative analysis 
+* **Metrics used to evaluate the final model*:
+* **Final values of the metrics for all data: training, validation, and test data*:
+* **Plots related to the data or final model*: 
+
+
+
+###Ethical considerations 
+* **Potential negative impacts of using the model*:
+* **Math or software problems*:
+* **Real-world risks: who, what, when or how*:
+* **Potential uncertainties relating to the impacts of using your model*:
+* **Math or software problems*:
+* **Real-world risks: who, what, when or how?*:
+* **Any unexpected or results*:
