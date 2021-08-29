@@ -103,7 +103,7 @@ Output column:
   * Female-to-Male AIR: 1.02
   * Hispanic-to-White AIR: 0.83
  
-### Plots**: 
+### Plots: 
 
 * **Training decision tree**
 
