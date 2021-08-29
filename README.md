@@ -47,6 +47,49 @@ Project 1- Model credit
 
 
 
-### Evaluation Data
+### Model details
+
+
+Input columns: 
+
+| Name | Description|
+| ---- | ---------- |
+|**ID**| unique row indentifier |
+| **LIMIT_BAL** | amount of previously awarded credit |
+| **SEX** | demographic information |
+| **RACE** | demographic information | 
+| **EDUCATION** | demographic information | 
+| **MARRIAGE** | demographic information | 
+| **AGE** | demographic information | 
+| **PAY_0** | the repayment status in September, 2005 | 
+| **PAY_2** | the repayment status in August, 2005 | 
+| **PAY_3** | the repayment status in July, 2005 | 
+| **PAY_4** | the repayment status in June, 2005 | 
+| **PAY_5** | the repayment status in May, 2005 | 
+| **PAY_6** | the repayment status in April, 2005 | 
+
+| **BILL_AMT1** | amount of bill statement in September, 2005 |
+| **BILL_AMT2** | amount of bill statement in August, 2005 |
+| **BILL_AMT3** | amount of bill statement in July, 2005 |
+| **BILL_AMT4** | amount of bill statement in June, 2005 |
+| **BILL_AMT5** | amount of bill statement in May, 2005 |
+| **BILL_AMT6** | amount of bill statement in April, 2005 |
+
+| **PAY_AMT1** | the repayment status in September, 2005 | 
+| **PAY_AMT2** | the repayment status in August, 2005 | 
+| **PAY_AMT3** | the repayment status in July, 2005 | 
+| **PAY_AMT4** | the repayment status in June, 2005 | 
+| **PAY_AMT5** | the repayment status in May, 2005 | 
+| **PAY_AMT6** | the repayment status in April, 2005 | 
+
+
+Output column: 
+| **DELINQ_NEXT**| whether a customer's next payment is delinquent (late) or on-time |
+
+
+* **Type of model**: Decision-tree model
+* **Software used to implement the model**: Jupyter Notebook
+* **Version of the modeling software**: Python 3.7
+* **Hyperparameters or other settings of your model**: None
 
 
