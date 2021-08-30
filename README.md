@@ -4,7 +4,7 @@ Project 1- Model credit
 
 ### Basic Information
 
-* **Person or organization developing model**: Ayushi Chauhan, Neel Barge and  Himanvesh Maddina, `chauhayu2511@gwu.edu' 'nbarge96@gwmail.gwu.edu'  and 'himanvesh@gwu.edu'
+* **Person or organization developing model**: Ayushi Chauhan, Neel Barge and Himanvesh Maddina, chauhayu2511@gwu.edu, nbarge96@gwmail.gwu.edu and himanvesh@gwu.edu
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: MIT
@@ -40,7 +40,7 @@ Project 1- Model credit
   * Validation rows: 7,500
 
 ### Test Data
-* **Source of test data**: GWU Blackboard, email `chauhayu2511@gwu.edu`,'nbarge96@gwmail.gwu.edu', 'himanvesh@gwu.edu' for more information
+* **Source of test data**: GWU Blackboard, email chauhayu2511@gwu.edu, nbarge96@gwmail.gwu.edu and himanvesh@gwu.edu for more information
 * **Number of rows in test data**: 7,500
 * **State any differences in columns between training and test data**: None
 
