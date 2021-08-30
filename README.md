@@ -4,7 +4,7 @@ Project 1- Model credit
 
 ### Basic Information
 
-* **Person or organization developing model**: Ayushi Chauhan, Neel Barge and  Himanvesh Maddina, `chauhayu2511@gwu.edu nbarge96@gwmail.gwu.edu  and himanvesh@gwu.edu'
+* **Person or organization developing model**: Ayushi Chauhan, Neel Barge and  Himanvesh Maddina, `chauhayu2511@gwu.edu' 'nbarge96@gwmail.gwu.edu'  and 'himanvesh@gwu.edu'
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: MIT
