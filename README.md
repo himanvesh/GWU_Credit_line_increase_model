@@ -120,10 +120,17 @@ Output column:
 
 
 ### Ethical considerations 
-* **Potential negative impacts of using the model**:
-* **Math or software problems**:
-* **Real-world risks: who, what, when or how**:
-* **Potential uncertainties relating to the impacts of using your model**:
-* **Math or software problems**:
-* **Real-world risks: who, what, when or how?**:
+* **Potential negative impacts of using the model**
+* **Math or software problems**: Different Software version can fetch different results leading to potential impacts on decision making. Some algorithms can give different results with the same dataset based on their nature(deterministic or stochastic)
+* **Real-world risks: who, what, when or how**: Bias in data can be augmented over time if the model trains itself on the same data. Taking decisions based on data requires the data to be regularly scrutinised for biases. This demands transparency which is beneficial to eliminate biases but can invite attacks/data poisoning incidents
+* **Potential uncertainties relating to the impacts of using your model**: 
+* **Math or software problems**: Data security is uncertain, breaches can directly impact a lot of people
+* **Real-world risks: who, what, when or how?**:Using race/gender in the data can lead to ethnic or gender based profiling, which can impair decision making.
+
 * **Any unexpected or results**:
+* female-to-male AIR: 1.06
+* hispanic-to-white AIR: 0.76
+
+
+
+
