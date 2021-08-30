@@ -103,12 +103,11 @@ Output column:
   * Female-to-Male AIR: 1.02
   * Hispanic-to-White AIR: 0.83
  
-### Plots: 
+### Plots 
 
 * **Training decision tree**
 
 ![Graph 1](https://user-images.githubusercontent.com/89392789/131267465-0b5f8d90-6ce5-4d68-8472-7c5f26be7196.png)
-
 
 
 * **Tree depth vs. training and validation AUC and AIR**
