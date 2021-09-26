@@ -125,7 +125,9 @@ Output column:
   * Real-world risks: who, what, when or how: Bias in data can be augmented over time if the model trains itself on the same data. Taking decisions based on data requires the data to be regularly scrutinised for biases. This demands transparency which is beneficial to eliminate biases but can invite attacks/data poisoning incidents
 * **Potential uncertainties relating to the impacts of using your model**: 
   * Math or software problems: Data security is uncertain, breaches can directly impact a lot of people
-  * Real-world risks: who, what, when or how?**:Using race/gender in the data can lead to ethnic or gender based profiling, which can impair decision making.
+  
+ * **Real-world risks: who, what, when or how?**:
+  * Using race/gender in the data can lead to ethnic or gender based profiling, which can impair decision making.
 
 * **Any unexpected or results**:
   * female-to-male AIR: 1.06
