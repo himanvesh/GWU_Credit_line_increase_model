@@ -126,7 +126,7 @@ Output column:
 * **Potential uncertainties relating to the impacts of using your model**: 
   * Math or software problems: Data security is uncertain, breaches can directly impact a lot of people
   
- * **Real-world risks: who, what, when or how?**:
+* **Real-world risks: who, what, when or how?**:
   * Using race/gender in the data can lead to ethnic or gender based profiling, which can impair decision making.
 
 * **Any unexpected or results**:
