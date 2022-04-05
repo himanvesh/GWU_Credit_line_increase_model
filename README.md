@@ -1,4 +1,4 @@
-# GWU_DNSC_6301_project1
+# GWU project
 Project 1- Model credit
 # Credit Line Increase Model Card
 
