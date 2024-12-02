@@ -39,7 +39,7 @@ Project 1- Model credit
   * Validation rows: 7,500
 
 ### Test Data
-* **Source of test data**: GWU Blackboard, email chauhayu2511@gwu.edu, nbarge96@gwmail.gwu.edu and himanvesh@gwu.edu for more information
+* **Source of test data**: GWU Blackboard, email himanvesh@gwu.edu for more information
 * **Number of rows in test data**: 7,500
 * **State any differences in columns between training and test data**: None
 
